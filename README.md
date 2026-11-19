@@ -25,11 +25,11 @@
 
 | Home Base & Launch Deck | Skyroll Hangar (Aircraft Store) |
 | :---: | :---: |
-| ![Home Base](screenshots/home.png) | ![Hangar Aircraft](screenshots/hangar-aircraft.png) |
+| <img width="1917" height="973" alt="Screenshot 2026-11-19 212750" src="https://github.com/user-attachments/assets/61cfc8df-e06f-4006-bdd4-41cc780ecde7" /> | <img width="672" height="815" alt="image" src="https://github.com/user-attachments/assets/fb254c83-95a2-465c-bbde-51fcb23e0223" /> |
 
 | Plane Liveries & Skins | Sky Worlds | Flight Missions |
 | :---: | :---: | :---: |
-| ![Plane Skins](screenshots/hangar-skins.png) | ![Sky Worlds](screenshots/hangar-worlds.png) | ![Flight Missions](screenshots/missions.png) |
+| <img width="685" height="832" alt="Screenshot 2026-11-19 215342" src="https://github.com/user-attachments/assets/eebfa444-2c97-4596-b72d-97f515e076cd" /> | <img width="652" height="691" alt="image" src="https://github.com/user-attachments/assets/371b3b55-b2f7-4fbe-a29b-ce148c966ce5" /> | <img width="572" height="601" alt="image" src="https://github.com/user-attachments/assets/684265a7-9925-4d1b-8663-02e0d19ce9e3" /> |
 
 ---
 
